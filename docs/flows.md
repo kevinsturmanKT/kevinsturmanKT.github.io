@@ -1,3 +1,4 @@
+# Main Table
 <a name="mainTable"></a>
 <table class="table table-striped" style="border-collapse: collapse">
   <tbody>
@@ -92,9 +93,9 @@
   </tbody>
 </table>
 
-<h2>Kaarbontech Upstream</h2>
+## Kaarbontech Upstream
 <a name="KUS:createAsset"></a>
-<h3>Create Asset</h3>
+### Create Asset
 <a href="#mainTable" style="font-size: 0.8em">Back to main table</a>
 
 ```mermaid
@@ -116,7 +117,7 @@
 ```
 
 <a name="KUS:updateAsset"></a>
-<h3>Update Asset</h3>
+### Update Asset
 <a href="#mainTable" style="font-size: 0.8em">Back to main table</a>
 
 ```mermaid
@@ -135,7 +136,7 @@
     Note over KT,IP:Using stored externalID in KT
 ```
 
-<h3>New Asset with Integration Platform confirmation</h3>
+### New Asset with Integration Platform confirmation
 <a href="#mainTable" style="font-size: 0.8em">Back to main table</a>
 
 ```mermaid
@@ -163,7 +164,7 @@
 ```
 
 <a name="KUS:createInspection"></a>
-<h3>Create Inspection</h3>
+### Create Inspection
 <a href="#mainTable" style="font-size: 0.8em">Back to main table</a>
 
 ```mermaid
@@ -186,7 +187,7 @@
 ```
 
 <a name="KUS:updateInspection"></a>
-<h3>Update Inspection</h3>
+### Update Inspection
 <a href="#mainTable" style="font-size: 0.8em">Back to main table</a>
 
 > [!IMPORTANT]
@@ -217,7 +218,7 @@
 ```
 
 <a name="KUS:createServiceRequest"></a>
-<h3>Create Service Request</h3>
+### Create Service Request
 <a href="#mainTable" style="font-size: 0.8em">Back to main table</a>
 
 ```mermaid
@@ -238,7 +239,7 @@
 ```
 
 <a name="KUS:updateServiceRequest"></a>
-<h3>Update Service Request</h3>
+### Update Service Request
 <a href="#mainTable" style="font-size: 0.8em">Back to main table</a>
 
 ```mermaid
@@ -258,10 +259,10 @@
     IP->>KT:Return service status
     Note over IP,KT:KT to store external<br>service request status
 ```
-<h2>Kaarbontech Downstream</h2>
+## Kaarbontech Downstream
 
 <a name="KDS:createAsset"></a>
-<h3>Create Asset</h3>
+### Create Asset
 <a href="#mainTable" style="font-size: 0.8em">Back to main table</a>
 
 ```mermaid
@@ -281,7 +282,7 @@
 ```
 
 <a name="KDS:updateAsset"></a>
-<h3>Update Asset</h3>
+### Update Asset
 <a href="#mainTable" style="font-size: 0.8em">Back to main table</a>
 
 ```mermaid
@@ -301,7 +302,7 @@
 ```
 
 <a name="KDS:createInspection"></a>
-<h3>Create Inspection</h3>
+### Create Inspection
 <a href="#mainTable" style="font-size: 0.8em">Back to main table</a>
 
 ```mermaid
@@ -322,7 +323,7 @@
 ```
 
 <a name="KDS:updateInspection"></a>
-<h3>Update Inspection</h3>
+### Update Inspection
 <a href="#mainTable" style="font-size: 0.8em">Back to main table</a>
 
 ```mermaid
@@ -341,7 +342,7 @@
     Note over IP,KT:Using integration platform<br>KT inspectionID to reference
 ```
 
-<h3>Inspection Downsteam KT, Asset Upstream KT</h3>
+### Inspection Downsteam KT, Asset Upstream KT
 <a href="#mainTable" style="font-size: 0.8em">Back to main table</a>
 
 ```mermaid
@@ -368,7 +369,7 @@
 ```
 
 <a name="KDS:createServiceRequest"></a>
-<h3>Create Service Request</h3>
+### Create Service Request
 <a href="#mainTable" style="font-size: 0.8em">Back to main table</a>
 
 ```mermaid
@@ -388,7 +389,7 @@
 ```
 
 <a name="KDS:updateServiceRequest"></a>
-<h3>Update Service Request</h3>
+### Update Service Request
 <a href="#mainTable" style="font-size: 0.8em">Back to main table</a>
 
 ```mermaid
