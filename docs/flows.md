@@ -25,8 +25,8 @@
       <th>A</th>
       <th colspan="3" rowspan="3">N/A<br />both upstream</th>
       <td>
-        <a href="#KUS:createAsset">Create</a><br /><a
-          href="#KUS:updateAsset"
+        <a href="#create-asset">Create</a><br /><a
+          href="#update-asset"
           >Update</a
         >
       </td>
@@ -37,8 +37,8 @@
       <th>I</th>
       <td>&nbsp;</td>
       <td>
-        <a href="#KUS:createInspection">Create</a><br /><a
-          href="#KUS:updateInspection"
+        <a href="#create-inspection">Create</a><br /><a
+          href="#update-inspection"
           >Update</a
         >
       </td>
@@ -49,8 +49,8 @@
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>
-        <a href="#KUS:createServiceRequest">Create</a><br /><a
-          href="#KUS:updateServiceRequest"
+        <a href="#create-service-request">Create</a><br /><a
+          href="#update-service-request"
           >Update</a
         >
       </td>
@@ -59,8 +59,8 @@
       <th rowspan="3">DOWN</th>
       <th>A</th>
       <td>
-        <a href="#KDS:createAsset">Create</a><br /><a
-          href="#KDS:updateAsset"
+        <a href="#create-asset-1">Create</a><br /><a
+          href="#update-asset-1"
           >Update</a
         >
       </td>
@@ -72,8 +72,8 @@
       <th>I</th>
       <td>&nbsp;</td>
       <td>
-        <a href="#KDS:createInspection">Create</a><br /><a
-          href="#KDS:updateInspection"
+        <a href="#create-inspection-1">Create</a><br /><a
+          href="#update-inspection-1"
           >Update</a
         >
       </td>
@@ -84,7 +84,7 @@
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>
-        <a href="#KDS:createServiceRequest">Create</a><br /><a
+        <a href="#create-service-request-1">Create</a><br /><a
           href="#update-service-request-1"
           >Update</a
         >
