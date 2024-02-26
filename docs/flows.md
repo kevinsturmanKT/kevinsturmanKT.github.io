@@ -85,7 +85,7 @@
       <td>&nbsp;</td>
       <td>
         <a href="#KDS:createServiceRequest">Create</a><br /><a
-          href="#KDS:updateServiceRequest"
+          href="#update-service-request-1"
           >Update</a
         >
       </td>
